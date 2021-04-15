@@ -14,7 +14,7 @@ OWASP WARANGAL Chapter Aims to enlighten Individuals in the field of Information
 
 ### Call for Presentations:
 
-- We are open for speakers from anywhere in the world to present in the upcoming months at OWASP Delhi Chapter virtual meetings and events. If you are interested to speak,       please provide details via this [form](https://forms.gle/QBz8qPET7pJZqxBa9)
+- We are open for speakers from anywhere in the world to present in the upcoming months at OWASP Warangal Chapter virtual meetings and events. If you are interested to speak,       please provide details via this [form](https://forms.gle/QBz8qPET7pJZqxBa9)
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
