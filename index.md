@@ -2,7 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Warangal
-tags: example-tag
+tags: 
+Meetup group: owasp-warangal
 region: Asia
 
 ---
@@ -12,9 +13,13 @@ OWASP WARANGAL Chapter Aims to enlighten Individuals in the field of Information
 
 ## Participation
 
+## Upcoming Meetings: 
+
+{% include chapter_events.html group=page.meetup-group %}
+
 ### Call for Presentations:
 
-- We are open for speakers from anywhere in the world to present in the upcoming months at OWASP Warangal Chapter virtual meetings and events. If you are interested to speak,       please provide details via this [form]()
+- We are open for speakers from anywhere in the world to present in the upcoming months at OWASP Warangal Chapter virtual meetings and events. If you are interested to speak,       please provide details via this [form]
 
 <!--
 {front matter for this file}
