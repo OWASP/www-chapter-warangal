@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Warangal
 tags: 
-Meetup group: owasp-warangal
+meetup-group: owasp-warangal
 region: Asia
 
 ---
@@ -15,7 +15,11 @@ OWASP WARANGAL Chapter Aims to enlighten Individuals in the field of Information
 
 ## Upcoming Meetings: 
 
+We schedule our meetings on the [OWASP Warangal Meetup Group](https://www.meetup.com/owasp-warangal/)
+
 {% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### Call for Presentations:
 
